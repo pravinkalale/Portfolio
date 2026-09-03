@@ -1,0 +1,112 @@
+nav{
+    height: 100px;
+    background-color:aqua;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin: auto;
+    padding-top: 20px;
+    
+
+}
+nav h2{
+    font-size: 25px;
+    color: darkslategray;
+    margin-left: 10px;
+}
+nav div{
+    
+    text-align: right;
+    margin-right: 10px;
+    float: right;  
+}
+a
+{
+    
+    border: 2px inset black;
+    border-radius: 10px;
+    margin-right: 10px;
+    background-color: beige;
+
+}
+/* #pqr
+{
+    
+    border: 2px inset black;
+    border-radius: 10px;
+    margin-right: 10px;
+    background-color: beige;
+}
+#xyz
+{
+    
+    border: 2px inset black;
+    border-radius: 10px;
+    margin-right: 10px;
+    background-color: beige;
+}
+#lmn
+{
+    
+    border: 2px inset black;
+    border-radius: 10px;
+    margin-right: 10px;
+    background-color: beige;
+}
+#pmk
+{
+    
+    border: 2px inset black;
+    border-radius: 10px;
+    margin-right: 10px;
+    background-color: beige;
+} */
+a:hover{
+    color: red;
+}
+#home
+{
+    height: auto;
+    margin-top: 20px;
+    padding-top: 20px;
+    background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-inline: 10px;
+    text-align: center;
+}
+#home h1{
+ color: chocolate;
+}
+#home h2{
+    color: darkmagenta;
+}
+#home p{
+    color: crimson;
+}
+#about
+{
+    background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-inline: 10px;
+    text-align: center;
+}
+#skills
+{
+    background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-inline: 10px;
+    text-align: center;
+}
+#projects
+{
+    background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-inline: 10px;
+    text-align: center;
+}
+#contact
+{
+    background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-inline: 10px;
+    text-align: center;
+}
