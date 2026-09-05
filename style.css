@@ -1,33 +1,34 @@
 nav{
-    height: 100px;
+    height: 70px;
     background-color:aqua;
     border: 2px solid black;
     border-radius: 15px;
     margin: auto;
-    padding-top: 20px;
+    padding-top: auto;
+    display: flex;
     
 
 }
 nav h2{
     font-size: 25px;
-    color: darkslategray;
+    color: black;
     margin-left: 10px;
-}
-nav div{
+    margin-right: auto;
     
-    text-align: right;
-    margin-right: 10px;
-    float: right;  
 }
-a
-{
+nav a{
     
-    border: 2px inset black;
-    border-radius: 10px;
-    margin-right: 10px;
-    background-color: beige;
+   padding: 30px 30px;
+   text-decoration: none;
+ 
+
 
 }
+nav h2 span
+{
+    color: red;
+}
+
 /* #pqr
 {
     
