@@ -111,3 +111,15 @@ a:hover{
     padding-inline: 10px;
     text-align: center;
 }
+
+.home
+{
+    border: 2px solid black;
+    border-radius: 15px;
+    box-shadow: 0, 0, 0, 0.08;
+    transition: 2s;
+}
+.home:hover
+{
+    transform: translateY(-8px);
+}
